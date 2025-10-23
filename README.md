@@ -48,5 +48,11 @@ Both modules export clean, formatted PDF reports for easy reference.
    ```bash
    git clone https://github.com/ztre-jpg/Fitness-Dashboard.git
    cd Fitness-Dashboard
+
+2. Run the file:
+   ```bash
    python FitDash.py
+
+MAKE SURE THAT YOU HAVE INSTALLED THE "requirements.txt"
+
 on and CustomTkinter. It helps you generate personalized calorie and workout plans in seconds — and export them as elegant PDFs.
