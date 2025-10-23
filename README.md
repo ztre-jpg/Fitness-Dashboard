@@ -25,6 +25,23 @@ It helps you calculate your calories, generate workout plans, and export your re
 
 ---
 
+🧠 How It Works
+
+FitDash uses your age, weight, height, gender, and activity level
+to calculate your BMR and TDEE, providing a personalized calorie surplus or deficit.
+
+The workout planner builds weekly splits based on:
+
+Training days per week
+
+Experience level (Beginner / Intermediate / Advanced)
+
+Equipment (Home / Gym)
+
+Both modules export clean, formatted PDF reports for easy reference.
+
+---
+
 ## 🚀 Installation
 
 1. Clone the repository:
